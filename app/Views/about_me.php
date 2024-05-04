@@ -114,6 +114,7 @@
             padding: 2.5rem 1.75rem 3.5rem 1.75rem;
         }
         section h1 {
+            margin-top: 3rem;
             margin-bottom: 2.5rem;
         }
         section h2 {
@@ -218,13 +219,6 @@
         </ul>
     </div>
 
-    <div class="heroe">
-
-        <h1>Selamat Datang di Website Ummu Izzatul Kharimah </h1>
-
-        <h2>Ini digunakan untuk menunjukkan kompetensi saya dalam menggunakan framework HMVC dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
-
-    </div>
 
 </header>
 
@@ -232,36 +226,17 @@
 
 <section>
 
-    <h1>About this page</h1>
+    <h1>About Me</h1>
+    <p>Halo perkenalkan nama saya Jajang, saya berasal dari sebuah desa di Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rutrum varius mollis. Donec ut auctor mauris, vel sodales nulla. Vivamus faucibus vestibulum ipsum, at iaculis risus aliquam id. Nullam id aliquam ex. Phasellus eu tortor mi. Proin congue placerat placerat. Quisque ac pellentesque sapien, ac porttitor risus. Ut erat nisi, aliquam eget mollis ullamcorper, convallis at nunc. Integer lobortis velit quis velit auctor elementum ut ut quam. Vivamus ut elementum lorem. Fusce orci ipsum, blandit quis magna nec, placerat iaculis turpis. Suspendisse iaculis ligula eget purus elementum, ac iaculis dui lobortis. Nunc tempus feugiat ex, quis congue est hendrerit imperdiet. Curabitur at sem rhoncus, sollicitudin dui eu, ornare elit. Integer tincidunt mattis odio vulputate mattis. Fusce commodo feugiat velit sed rhoncus. Donec non risus augue.</p>
 
-    <p>Halaman ini merupakan halaman selamat datang</p>
-
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    
-    
-    <!-- <p>If you would like to edit this page you will find it located at:</p>
-
-    <pre><code>app/Views/welcome_message.php</code></pre>
-
-    <p>The corresponding controller for this page can be found at:</p>
-
-    <pre><code>app/Controllers/Home.php</code></pre> -->
     
 </section>
 
 <div class="further">
 
-    <section>
+    <section id="about">
 
-        <h1></h1>
+        <!-- <h1> About me </h1> -->
 
         <!-- <h2>
             <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect x='32' y='96' width='64' height='368' rx='16' ry='16' style='fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px'/><line x1='112' y1='224' x2='240' y2='224' style='fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px'/><line x1='112' y1='400' x2='240' y2='400' style='fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:32px'/><rect x='112' y='160' width='128' height='304' rx='16' ry='16' style='fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px'/><rect x='256' y='48' width='96' height='416' rx='16' ry='16' style='fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px'/><path d='M422.46,96.11l-40.4,4.25c-11.12,1.17-19.18,11.57-17.93,23.1l34.92,321.59c1.26,11.53,11.37,20,22.49,18.84l40.4-4.25c11.12-1.17,19.18-11.57,17.93-23.1L445,115C443.69,103.42,433.58,94.94,422.46,96.11Z' style='fill:none;stroke:#000;stroke-linejoin:round;stroke-width:32px'/></svg>
@@ -293,7 +268,8 @@
              of code and documentation from the community. Why not
              <a href="https://codeigniter.com/contribute" target="_blank">
              join us</a> ?</p> -->
-        
+        <!-- <p>Halo perkenalkan nama saya Jajang, saya berasal dari sebuah desa di Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus rutrum varius mollis. Donec ut auctor mauris, vel sodales nulla. Vivamus faucibus vestibulum ipsum, at iaculis risus aliquam id. Nullam id aliquam ex. Phasellus eu tortor mi. Proin congue placerat placerat. Quisque ac pellentesque sapien, ac porttitor risus. Ut erat nisi, aliquam eget mollis ullamcorper, convallis at nunc. Integer lobortis velit quis velit auctor elementum ut ut quam. Vivamus ut elementum lorem. Fusce orci ipsum, blandit quis magna nec, placerat iaculis turpis. Suspendisse iaculis ligula eget purus elementum, ac iaculis dui lobortis. Nunc tempus feugiat ex, quis congue est hendrerit imperdiet. Curabitur at sem rhoncus, sollicitudin dui eu, ornare elit. Integer tincidunt mattis odio vulputate mattis. Fusce commodo feugiat velit sed rhoncus. Donec non risus augue.</p> -->
+
     </section>
 
 </div>
